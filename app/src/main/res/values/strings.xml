@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">AnimationCircularViewHolder</string>
+    <string name="jujuy">La Provincia de Jujuy se sitúa en el ángulo noroeste de la República Argentina. Limita al norte y al oeste, con las Repúblicas de Bolivia y Chile respectivamente, y al sur y al este con la Provincia de Salta. Tiene una superficie de 53.219 km2 y es atravesada por el Trópico de Capricornio a la altura de Huacalera, con localidades entre los 350 a los 5000 msnm. En virtud de sus características ecológicas y climáticas, ha sido dividida en cuatro zonas, cada una de ellas con flora y fauna diferentes y con actividades agropecuarias y forestales definidas. Esta división geográfica determina los cuatro circuitos turísticos clásicos de Jujuy: los Valles, la Quebrada de Humahuaca, las Yungas y la Puna.</string>
+
+    <string name="quebrada">Quebrada de Humahuaca es un profundo y angosto surco de origen tectónico-fluvial, ubicado íntegramente en la provincia de Jujuy, en el norte argentino.
+La quebrada está recorrida por el río Grande, subafluente del río Paraguay. Pertenece a la subregión de la Cordillera Oriental, y se encuentra limitada por dos cordones: el occidental y el oriental.
+Presenta un marcado rumbo norte-sur, siendo cada vez mayor la altura hacia el norte. Por esto se la considera una vía de acceso natural hacia el Altiplano, función con la que fue utilizada desde tiempos precolombinos.</string>
+
+
+    <string name="thermas">Las Termas de Río Hondo es una ciudad del norte de Argentina, en la provincia de Santiago del Estero. Es cabecera del departamento Río Hondo, a orillas del río Dulce.
+
+
+Dique Frontal de Río Hondo desde la Costanera
+La ciudad es el principal centro termal del país , ya que la misma se encuentra sobre una gran terma mineralizada que cubre 12 km a la redonda. Las aguas se indican especialmente como tónicas así como para la presión sanguínea y el reumatismo. Cuenta con una infraestructura hotelera de más de 170 establecimientos de distintas categorías, con 14.500 plazas, además de numerosos acampes.</string>
+
+    <string name="tucuman"> La Provincia de Tucumán, es una de las 23 provincias que componen la República Argentina. A su vez, es uno de los 24 estados autogobernados que conforman el país y uno de los 24 distritos electorales legislativos nacionales.4​5​ Su capital es San Miguel de Tucumán. Está ubicada al noroeste del país, en la región del Norte Grande Argentino, limitando al norte con Salta, al este con Santiago del Estero y al sur y oeste con Catamarca. Con 22 524 km² es la provincia argentina menos extensa. </string>
+
+    <string name="teleferico">El Teleférico San Bernardo es una de las maneras más divertidas de conocer la ciudad de Salta. La base se encuentra en el Parque San Martín y su estación de llegada es la cima del Cerro San Bernardo, desde donde tendrás las mejores vistas de la ciudad más linda de Argentina.</string>
+
+    <string name="salinas">Salinas Grandes es la denominación de un salar limítrofe de las provincias argentinas de Salta y Jujuy, ubicado en el Altiplano, en el norte Argentino.
+Distante a 66 km de Purmamarca y accediendo a través de la Ruta Nacional 52, se extienden sobre un área de 212 km² en el departamento jujeño de Tumbaya y en el salteño de La Poma, encontrándose el centro del salar próximo a las coordenadas 23°38′S 66°05′O, a una altitud promedio de 3450 msnm. Pese a lo elevado de tal altitud, las Salinas Grandes de Jujuy son prácticamente el nivel de base de una cuenca endorreica que se continúa hacia el norte en la Laguna de Guayatayoc, laguna fuertemente salada y alcalínica.</string>
+
+    <string name="salta">Salta es una ciudad, un municipio y la capital de la provincia de Salta, República Argentina, que tiene una población de 535 303 habitantes, siendo la ciudad más poblada de la provincia y la séptima del país. Su área metropolitana, denominada Gran Salta,1​ está compuesta por once municipios y tiene a una población de 554 125 habs. (INDEC, 2010). Se encuentra ubicada al este de la cordillera de los Andes, en el Valle de Lerma, a 1187 m, muy cerca del nacimiento del río Salado —un importante río que desagua en el río Paraná— y cruzada por el río Arenales que la divide en centro, norte y sur.</string>
+
+    <string name="cascada">Se trata de la cascada del Río Noque, que forma parte de la reserva natural “Parque Sierra de San Javier”, que pertenece a la Universidad Nacional de Tucuman (UNT). El parque, que concentra 14.714 hectarias de hermosos paisajes, esta ubicado a solo 11 Kilómetros de San Miguel de Tucuman y se accede siguiendo por la ruta que lleva a La Sala.
+</string>
+</resources>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <android.support.v4.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+        android:padding="10dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center"
+            android:orientation="vertical">
+
+
+            <android.support.v7.widget.CardView xmlns:cardview="http://schemas.android.com/apk/res-auto"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                cardview:cardCornerRadius="4dp"
+                cardview:cardElevation="5dp">
+
+                <ImageView
+
+                    android:id="@+id/id_photoResume"
+                    android:layout_width="350dp"
+                    android:layout_height="170dp"
+                    android:background="#2d2d2d"
+                    android:scaleType="centerCrop" />
+
+            </android.support.v7.widget.CardView>
+
+
+            <TextView
+                android:id="@+id/categoria_id"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:background="#edecec"
+                android:padding="8dp"
+                android:text="Category"
+
+                />
+
+            <TextView
+                android:id="@+id/descripcion_id"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:gravity="center"
+                android:text="Descripcion"
+                android:textSize="18sp" />
+
+        </LinearLayout>
+
+    </android.support.v4.widget.NestedScrollView>
+
+
+</LinearLayout>
